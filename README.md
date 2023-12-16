@@ -1,9 +1,77 @@
-# Python Project
+# Python 
 
-This Python project is designed to demonstrate the usage of Basics of Python
+This Python project covers a variety of topics to help users understand and explore Python programming.
 
-## Overview
+## Topics
 
-The purpose of this project is to provide a simple example of how to work with topics of Python basics .
+### Variables
+
+
+### Conditional Statement
+
+
+### Statements
+
+
+### Conversion
+
+
+### Function
+
+
+### Generators
+
+
+### Inputs
+
+
+### Lambda Functions
+
+
+### Nested Functions
+
+
+### Operators
+
+
+
+### Packages
+
+
+
+### Compound Data Types
+
+
+### Advanced Data Structures
+
+
+
+
+
+### DotEnv
+
+
+### Exception Handling
+
+
+### File Handling
+
+
+### OOPs
+
+
+### Modules
+
+
+### Iterative Statements
+
+
+### Decorators
+
+
+
+
+
+
 
 
